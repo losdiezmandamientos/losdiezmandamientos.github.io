@@ -1,5 +1,8 @@
+@font-face {font-family: "David Libre";
+  src: url(./fonts/DavidLibre-Regular.ttf);
+}
 body{background-image: url("./yhwh.webp"); background-repeat: repeat;
-background-attachment: fixed; font-family: "Times New Roman", "Liberation Serif", Times, serif; font-weight: 400; text-align: center;
+background-attachment: fixed; font-family: "Times New Roman", "Liberation Serif", Times, "David Libre", serif; font-weight: 400; text-align: center;
    background-color: white
 }
 header {padding-bottom: 5%}

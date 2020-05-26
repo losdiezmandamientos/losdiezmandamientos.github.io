@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://losdiezmandamientos.github.io/sitemap.xml
